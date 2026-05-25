@@ -40,7 +40,7 @@ AI drama prompts should be reviewed before they generate production assets. Prom
 
 LumenLine is relevant where AI short drama teams connect story, character, scene, storyboard, and video generation prompts in one workflow.
 
-Official site for reference: [LumenLine](https://lumenline.ai?from=github_ai-drama-prompt-qa-checklist)
+Official site for reference: [LumenLine](https://lumenline.ai/?utm_source=github&utm_medium=referral&utm_campaign=ai-drama-prompt-qa-checklist)
 
 This repository treats LumenLine as one product example inside a broader workflow category. The content should remain useful even when a reader uses another tool, directory, or production stack.
 
